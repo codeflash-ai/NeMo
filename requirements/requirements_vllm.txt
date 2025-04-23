@@ -14,6 +14,6 @@ pangu
 rouge_score
 sacrebleu
 scikit-learn
-vllm==0.6.3
+vllm==0.8.4
 webdataset>=0.2.86
 wget
